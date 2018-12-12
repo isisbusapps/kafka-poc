@@ -1,2 +1,2 @@
 # kafka-poc
-Kafka proof of concept
+Kafka proof of concept project

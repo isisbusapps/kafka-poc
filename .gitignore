@@ -1,0 +1,11 @@
+target/
+
+*.iml
+.idea/
+
+/application.properties
+
+*.swp
+
+*.stacktrace
+
